@@ -16,12 +16,15 @@
 }
 .content {
   grid-area: main;
+  overflow: scroll
+
 }
 .sidebar {
   grid-area: sd;
+
 }
 
 .shoe-images {
   width:100%
-    height:100%
+    
 }
