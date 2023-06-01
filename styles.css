@@ -20,3 +20,7 @@
 .sidebar {
   grid-area: sd;
 }
+
+.shoe-images {
+  width:100%
+}
