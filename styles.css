@@ -21,6 +21,8 @@
 }
 .sidebar {
   grid-area: sd;
+  overflow: scroll
+
 
 }
 
